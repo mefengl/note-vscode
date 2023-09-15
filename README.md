@@ -1,7 +1,11 @@
 # note-vscode
 
-### package.json
+## extension api
 
-## when clause contexts
+https://code.visualstudio.com/api
+
+## package.json
+
+### when clause contexts
 
 https://code.visualstudio.com/api/references/when-clause-contexts
